@@ -94,6 +94,11 @@ body{
    
 @media screen  and (max-width:375px) {
 
+    .maincontainer{
+        width: 1184px;
+        height: 1320px;
+    }
+
     .logoimg{
         width: 464px;
         position: absolute;
@@ -101,8 +106,9 @@ body{
     }
 
     .mainimg{
-        width: 2352px;
-    }
+        width: 1184px;
+        height: 1320px;
+        }
 
     body{
         width: 775px;
